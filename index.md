@@ -2,7 +2,14 @@
 
 ---
 
-### Category Name 1 
+### [About Me](/sample_page)
+<figure>
+    <img src="/images/sw.jpg"
+         alt="Grindelwald, Switzerland">
+    <figcaption>Hiking in Grindelwald, Switzerland with my partner, Carrie. </figcaption>
+</figure>
+
+### Category Name 2
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
